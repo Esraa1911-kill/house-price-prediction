@@ -1,3 +1,4 @@
+🌐 **Live Demo:** [Check out the live website here](https://house-price-prediction-blush-alpha.vercel.app/)
 # House Price Prediction — End-to-End ML Web App
 
 An end-to-end machine learning system designed to predict property prices accurately. The application integrates a trained scikit-learn machine learning pipeline with a high-performance **FastAPI** backend and an interactive **React** frontend.
