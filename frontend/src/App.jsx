@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://house-price-prediction-production-b945.up.railway.app";
 
 function App() {
   const [locations, setLocations] = useState([]);
